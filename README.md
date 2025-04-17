@@ -1,16 +1,24 @@
-i love baker bear
+![alt text](./header.svg)
 
-<!--
-**heartybp/heartybp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                  I'm a passionate developer with interests spanning fullstack
+                                     development, mobile applications, and machine learning.
+
+## 🔭 Current Projects
+- **ZotBins** - Developing a React Native mobile application that helps improve waste management and recycling efforts on campus.
+- **GlucoGuard Sleep** - Creating a mobile health application focused on monitoring glucose levels during sleep for better health outcomes.
+- **BranchOut** - Serving as a developer lead and guiding a team of 5 developers to develop a PERN fullstack networking application.
+
+## 💻 Technical Skills
+Languages: Python, Java, C/C++, JavaScript   
+Frontend: React, React Native, TailWindCSS  
+Backend: Node.js, Express, Flask  
+Database: MongoDB, PostgreSQL, Firebase  
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heartybp&show_icons=true&theme=radical)
+  
+
+
+![alt text](./footer.svg)
