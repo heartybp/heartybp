@@ -1,6 +1,6 @@
 ![alt text](./images/header.svg)
 
-<p align="center">𝘐'𝘮 𝘢 𝘧𝘰𝘶𝘳𝘵𝘩 𝘺𝘦𝘢𝘳 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘢𝘵 𝘜𝘊 𝘐𝘳𝘷𝘪𝘯𝘦 𝘮𝘢𝘫𝘰𝘳𝘪𝘯𝘨 𝘪𝘯 𝘤𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺...</p>
+<p align="center">𝘐'𝘮 𝘢 𝘧𝘰𝘶𝘳𝘵𝘩 𝘺𝘦𝘢𝘳 𝘤𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘮𝘢𝘫𝘰𝘳 𝘢𝘵 𝘜𝘊 𝘐𝘳𝘷𝘪𝘯𝘦 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺...</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&letterSpacing=1px&duration=3000&pause=1500&color=DC7F7F&background=FFFFFF&center=true&vCenter=true&width=1000&height=35&lines=Developing+fullstack+solutions+with+code+and+creativity;Building+immersive+mobile+experiences+that+connect+people;Using+machine+learning+to+uncover+hidden+patterns+in+data)](https://git.io/typing-svg)
 
