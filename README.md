@@ -2,7 +2,7 @@
 
 <p align="center">𝘐'𝘮 𝘢 𝘧𝘰𝘶𝘳𝘵𝘩 𝘺𝘦𝘢𝘳 𝘤𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘴𝘤𝘪𝘦𝘯𝘤𝘦 𝘮𝘢𝘫𝘰𝘳 𝘢𝘵 𝘜𝘊 𝘐𝘳𝘷𝘪𝘯𝘦...</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&letterSpacing=1px&duration=3000&pause=1500&color=DC7F7F&background=FFFFFF&center=true&vCenter=true&width=1000&height=35&lines=Developing+fullstack+solutions+with+code+and+creativity;Building+immersive+mobile+experiences+that+connect+people;Using+machine+learning+to+uncover+hidden+patterns+in+data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&letterSpacing=1px&duration=3000&pause=200&color=DC7F7F&background=FFFFFF&center=true&vCenter=true&width=1000&height=35&lines=Developing+fullstack+solutions+with+code+and+creativity;Building+immersive+mobile+experiences+that+connect+people;Using+machine+learning+to+uncover+hidden+patterns+in+data)](https://git.io/typing-svg)
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -23,7 +23,6 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<br />
 <h3 align="center">𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h3>
 
 - **[ZotBins](https://zotbins.org)** — Developing a React Native mobile application that helps improve waste management and recycling efforts on campus.
