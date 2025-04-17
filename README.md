@@ -16,9 +16,4 @@ Frontend: React, React Native, TailWindCSS
 Backend: Node.js, Express, Flask  
 Database: MongoDB, PostgreSQL, Firebase  
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=heartybp&show_icons=true&theme=radical)
-  
-
-
 ![alt text](./footer.svg)
