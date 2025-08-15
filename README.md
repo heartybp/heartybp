@@ -28,8 +28,8 @@
 - **[ZotBins](https://zotbins.org)** — Developed a React Native mobile application that helps improve waste management and recycling efforts on UCI campus, contributing to launch on the App Store in May 2025.  
      - https://zotbins.org
      - https://heartybp.github.io/zbin/
-- **[GlucoGuard Sleep](https://www.glucoguardsleep.com)** — Created a mobile health application for a medical device startup, focused on monitoring glucose levels during sleep. Submitted form for next-level DexCom API access.
-- **[BranchOut](https://github.com/heartybp/BranchOut)** — Served as a developer lead guiding a team of 7 developers to develop a PERN fullstack networking application. Won Best Project at UCI FusionCon
+- **[GlucoGuard Sleep](https://www.glucoguardsleep.com)** — Created a mobile health application for a medical device startup, focused on monitoring glucose levels during sleep and gaining next-level DexCom API access.
+- **[BranchOut](https://www.figma.com/deck/o4XYJ5ZWgJUMlz6VD0xMso/BranchOut-Case-Study--Copy-?node-id=1-310&t=F9v3Q1sAm3oeCcJy-1)** — Served as a developer lead guiding a team of 7 developers to develop a PERN fullstack networking application. Won Best Project at UCI FusionCon
 <br />
 
 ![alt text](./images/footer.svg)
