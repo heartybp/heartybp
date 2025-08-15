@@ -23,11 +23,13 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<h3 align="center">𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h3>
+<h3 align="center">Relevant Projects</h3>
 
-- **[ZotBins](https://zotbins.org)** — Developing a React Native mobile application that helps improve waste management and recycling efforts on campus.
-- **[GlucoGuard Sleep](https://www.glucoguardsleep.com)** — Creating a mobile health application focused on monitoring glucose levels during sleep for better health outcomes.
-- **[BranchOut](https://github.com/heartybp/BranchOut)** — Serving as a developer lead and guiding a team of 5 developers to develop a PERN fullstack networking application.
+- **[ZotBins](https://zotbins.org)** — Developed a React Native mobile application that helps improve waste management and recycling efforts on UCI campus, contributing to launch on the App Store in May 2025.  
+     - https://zotbins.org
+     - https://heartybp.github.io/zbin/
+- **[GlucoGuard Sleep](https://www.glucoguardsleep.com)** — Created a mobile health application for a medical device startup, focused on monitoring glucose levels during sleep. Submitted form for next-level DexCom API access.
+- **[BranchOut](https://github.com/heartybp/BranchOut)** — Served as a developer lead guiding a team of 7 developers to develop a PERN fullstack networking application. Won Best Project at UCI FusionCon
 <br />
 
 ![alt text](./images/footer.svg)
